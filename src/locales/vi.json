@@ -1,0 +1,1096 @@
+{
+  "common": {
+    "appName": "Growing",
+    "appDescription": "Nền tảng theo dõi phát triển trẻ em và tư vấn chuyên nghiệp dựa trên AI",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "signup": "Đăng ký",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "name": "Tên",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "add": "Thêm",
+    "close": "Đóng",
+    "submit": "Gửi",
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "success": "Thành công",
+    "confirm": "Xác nhận",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "previous": "Trước",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "settings": "Cài đặt",
+    "language": "Ngôn ngữ"
+  },
+  "footer": {
+    "appName": "🌱 Growing",
+    "appDescription": "Nền tảng theo dõi phát triển trẻ em và tư vấn chuyên nghiệp dựa trên AI",
+    "services": "Dịch vụ",
+    "aiCoach": "HLV AI",
+    "counseling": "Tư vấn chuyên nghiệp",
+    "growthGuide": "Hướng dẫn phát triển",
+    "counselors": "Tư vấn viên",
+    "counselorRegister": "Đăng ký tư vấn viên",
+    "counselorDashboard": "Bảng điều khiển tư vấn viên",
+    "copyright": "© 2025 Growing. Tất cả quyền được bảo lưu."
+  },
+  "navigation": {
+    "dashboard": "Trang chủ",
+    "children": "Hồ sơ trẻ",
+    "logs": "Nhật ký",
+    "aiCoach": "HLV AI",
+    "counselors": "Tư vấn",
+    "quests": "Nhiệm vụ",
+    "growthGuide": "Hướng dẫn",
+    "reports": "Báo cáo",
+    "subscription": "Đăng ký",
+    "recordManagement": "Quản lý",
+    "aiFeatures": "AI"
+  },
+  "auth": {
+    "loginTitle": "Đăng nhập",
+    "signupTitle": "Đăng ký",
+    "emailPlaceholder": "Nhập email của bạn",
+    "passwordPlaceholder": "Nhập mật khẩu",
+    "namePlaceholder": "Nhập tên của bạn",
+    "loginButton": "Đăng nhập",
+    "signupButton": "Đăng ký",
+    "forgotPassword": "Quên mật khẩu?",
+    "hasAccount": "Đã có tài khoản?",
+    "noAccount": "Chưa có tài khoản?",
+    "loginError": "Đăng nhập thất bại",
+    "signupError": "Đăng ký thất bại",
+    "invalidCredentials": "Email hoặc mật khẩu không đúng",
+    "emailRequired": "Vui lòng nhập email",
+    "passwordRequired": "Vui lòng nhập mật khẩu",
+    "nameRequired": "Vui lòng nhập tên"
+  },
+  "dashboard": {
+    "title": "Bảng điều khiển",
+    "subtitle": "Thông tin tăng trưởng dựa trên AI và gợi ý cá nhân hóa",
+    "welcome": ", chào mừng bạn!",
+    "todayQuests": "Nhiệm vụ hôm nay",
+    "generateQuests": "Tạo nhiệm vụ",
+    "questsGenerated": "Nhiệm vụ đã được tạo!",
+    "noQuests": "Chưa có nhiệm vụ nào",
+    "todayLogs": "Nhật ký hôm nay",
+    "logsCount": "bản ghi",
+    "recordsAdded": "bản ghi đã được thêm",
+    "aiSuggestions": "Gợi ý AI",
+    "getSuggestions": "Nhận gợi ý",
+    "suggestionsLoading": "Đang lấy gợi ý...",
+    "healthAlerts": "Cảnh báo sức khỏe",
+    "checkHealth": "Kiểm tra sức khỏe",
+    "alertsLoading": "Đang kiểm tra tình trạng sức khỏe...",
+    "aiUsage": "Sử dụng AI",
+    "monthlyUsage": "Sử dụng tháng này",
+    "usageLimit": "Giới hạn sử dụng",
+    "selectChild": "Chọn trẻ",
+    "addChild": "Thêm trẻ",
+    "plan": "Gói",
+    "remaining": "lần còn lại",
+    "upgradeNeeded": "Cần nâng cấp",
+    "quickRecord": "Ghi chép nhanh",
+    "viewAll": "Xem tất cả",
+    "noData": "Không có dữ liệu",
+    "loading": "Đang tải...",
+    "moreAlerts": "thông báo khác",
+    "insufficientData": "Thêm bản ghi để AI có thể phân tích",
+    "noAlerts": "Không có thông báo đặc biệt 😊",
+    "newGeneration": "Tạo mới",
+    "generatingQuests": "AI đang tạo nhiệm vụ...",
+    "mom": "Mẹ",
+    "dad": "Bố",
+    "grandpa": "Ông",
+    "grandma": "Bà",
+    "both": "Bố mẹ",
+    "parents": "Bố mẹ",
+    "grandparents": "Ông bà",
+    "family": "Gia đình",
+    "generateFirstQuest": "Tạo nhiệm vụ đầu tiên",
+    "noQuestsYet": "Chưa có nhiệm vụ nào",
+    "completed": "Hoàn thành",
+    "skipped": "Bỏ qua",
+    "inProgress": "Đang thực hiện",
+    "smartRecommendations": "Gợi ý thông minh AI",
+    "markCompleted": "Hoàn thành",
+    "skip": "Bỏ qua",
+    "quickActions": "Hành động nhanh",
+    "counselorRegister": "Bạn là chuyên gia nuôi dạy trẻ? Đăng ký tư vấn viên",
+    "minutes": "phút",
+    "addChildAndQuest": "Thêm trẻ và nhận nhiệm vụ!",
+    "analyzingRecommendations": "Đang phân tích gợi ý...",
+    "missedRecords": "Bạn đã bỏ lỡ một số bản ghi!",
+    "recordNow": "Ghi chép ngay",
+    "recommendedActivities": "Hoạt động được khuyến nghị",
+    "noRecommendations": "Hiện tại không có gợi ý nào",
+    "getRecommendations": "Nhận gợi ý",
+    "recommendedRecords": "Ghi chép được khuyến nghị",
+    "patternsFound": "Các mẫu được tìm thấy",
+    "noRecommendationsMessage": "Chọn trẻ và thêm bản ghi để AI cung cấp gợi ý cá nhân hóa.",
+    "newQuestGeneration": "Tạo nhiệm vụ mới"
+  },
+  "logs": {
+    "title": "Nhật ký phát triển",
+    "addRecord": "Thêm bản ghi",
+    "selectChild": "Chọn trẻ",
+    "recordType": "Loại bản ghi",
+    "date": "Ngày",
+    "time": "Giờ",
+    "description": "Mô tả",
+    "sleepType": "Loại giấc ngủ",
+    "sleepStart": "Bắt đầu ngủ",
+    "sleepEnd": "Thức dậy",
+    "napStart": "Bắt đầu ngủ trưa",
+    "napEnd": "Kết thúc ngủ trưa",
+    "mealType": "Loại bữa ăn",
+    "breastfeeding": "Cho bú mẹ",
+    "bottleFeeding": "Cho bú bình",
+    "solidFood": "Ăn dặm",
+    "snack": "Ăn vặt",
+    "activityType": "Loại hoạt động",
+    "tummyTime": "Nằm sấp",
+    "play": "Chơi",
+    "walk": "Đi dạo",
+    "reading": "Đọc sách",
+    "milestoneType": "Loại phát triển",
+    "physical": "Phát triển thể chất",
+    "cognitive": "Phát triển nhận thức",
+    "social": "Phát triển xã hội",
+    "language": "Phát triển ngôn ngữ",
+    "healthType": "Loại sức khỏe",
+    "temperature": "Nhiệt độ",
+    "symptom": "Triệu chứng",
+    "medication": "Thuốc",
+    "vaccination": "Tiêm chủng",
+    "diaperType": "Loại tã",
+    "wet": "Tiểu",
+    "dirty": "Đại tiện",
+    "mixed": "Hỗn hợp",
+    "aiAnalysis": "Phân tích AI",
+    "analyzing": "Đang phân tích...",
+    "analysisResult": "Kết quả phân tích",
+    "noRecords": "Chưa có bản ghi nào",
+    "recordSaved": "Bản ghi đã được lưu",
+    "recordDeleted": "Bản ghi đã được xóa",
+    "pageTitle": "📝 Nhật ký phát triển",
+    "recordQuickly": "Ghi chép nhanh chỉ với một chạm",
+    "selectChildPlaceholder": "Chọn trẻ",
+    "viewModes": {
+      "cards": "📋 Chế độ thẻ",
+      "timeline": "📊 Dòng thời gian",
+      "voice": "🎤 Giọng nói"
+    },
+    "todayRecordSummary": "📈 Tóm tắt bản ghi hôm nay",
+    "voiceGuide": "🤖 Hướng dẫn ghi chép bằng giọng nói AI",
+    "recentVoiceRecords": "🎤 Bản ghi giọng nói gần đây",
+    "voiceRecord": "Bản ghi giọng nói",
+    "voiceExamples": {
+      "feeding": {
+        "title": "Ghi chép cho bú",
+        "example1": "\"Bé uống 120ml\"",
+        "example2": "\"Uống sữa 150ml\"",
+        "example3": "\"Bú mẹ\""
+      },
+      "sleep": {
+        "title": "Ghi chép giấc ngủ",
+        "example1": "\"Ngủ 2 tiếng\"",
+        "example2": "\"Ngủ trưa 1 tiếng 30 phút\"",
+        "example3": "\"Ngủ đêm 8 tiếng\""
+      },
+      "diaper": {
+        "title": "Ghi chép tã",
+        "example1": "\"Thay tã\"",
+        "example2": "\"Tã phân\"",
+        "example3": "\"Tã tiểu\""
+      },
+      "development": {
+        "title": "Ghi chép phát triển",
+        "example1": "\"Cười lần đầu\"",
+        "example2": "\"Lật ngườic\"",
+        "example3": "\"Bắt đầu ngồi\""
+      },
+      "meal": {
+        "title": "Ghi chép bữa ăn",
+        "example1": "\"Bé ăn sáng\"",
+        "example2": "\"Bé ăn hết bữa trưa\"",
+        "example3": "\"Bé ăn vặt\""
+      },
+      "play": {
+        "title": "Ghi chép chơi",
+        "example1": "\"Chơi xếp khối\"",
+        "example2": "\"Vẽ tranh\"",
+        "example3": "\"Chơi bóng\""
+      },
+      "speech": {
+        "title": "Ghi chép ngôn ngữ",
+        "example1": "\"Nói từ mới\"",
+        "example2": "\"Nói câu\"",
+        "example3": "\"Trò chuyện\""
+      },
+      "social": {
+        "title": "Ghi chép xã hội",
+        "example1": "\"Chơi với bạn\"",
+        "example2": "\"Chia sẻ\"",
+        "example3": "\"Giữ trật tự\""
+      },
+      "learning": {
+        "title": "Ghi chép học tập",
+        "example1": "\"Học chữ\"",
+        "example2": "\"Học đếm số\"",
+        "example3": "\"Học từ tiếng Anh\""
+      },
+      "creative": {
+        "title": "Ghi chép sáng tạo",
+        "example1": "\"Vẽ tranh\"",
+        "example2": "\"Làm thủ công\"",
+        "example3": "\"Hát\""
+      },
+      "physical": {
+        "title": "Ghi chép hoạt động thể chất",
+        "example1": "\"Chạy xe đạp\"",
+        "example2": "\"Chơi ở công viên\"",
+        "example3": "\"Bơi\""
+      },
+      "emotion": {
+        "title": "Ghi chép cảm xúc",
+        "example1": "\"Vui\"",
+        "example2": "\"Buồn\"",
+        "example3": "\"Sợ\""
+      },
+      "school": {
+        "title": "Ghi chép sinh hoạt trường học",
+        "example1": "\"Làm xong bài tập\"",
+        "example2": "\"Thi\"",
+        "example3": "\"Tham gia sự kiện trường\""
+      },
+      "hobby": {
+        "title": "Ghi chép sở thích",
+        "example1": "\"Tập piano\"",
+        "example2": "\"Học taekwondo\"",
+        "example3": "\"Đọc sách\""
+      },
+      "friendship": {
+        "title": "Ghi chép quan hệ bạn bè",
+        "example1": "\"Kết bạn mới\"",
+        "example2": "\"Chơi với bạn\"",
+        "example3": "\"Giải quyết xung đột\""
+      },
+      "others": {
+        "title": "Hoạt động khác",
+        "example1": "\"Hoạt động câu lạc bộ\"",
+        "example2": "\"Tình nguyện\"",
+        "example3": "\"Tư vấn hướng nghiệp\""
+      }
+    },
+    "childError": "Lỗi khi tải danh sách trẻ:",
+    "logsError": "Lỗi khi tải nhật ký phát triển:",
+    "recordAddError": "Lỗi khi thêm bản ghi:",
+    "recordAddErrorMessage": "Đã xảy ra lỗi khi thêm bản ghi.",
+    "loading": "Đang tải...",
+    "logClick": "Nhấp vào nhật ký:",
+    "voiceRecognition": "Nhận dạng giọng nói:"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "languageError": "Lỗi truy vấn cài đặt ngôn ngữ:",
+    "aiProviderError": "Lỗi truy vấn nhà cung cấp AI:",
+    "unknownProvider": "Không xác định",
+    "aiSettings": "Cài đặt AI",
+    "currentProvider": "Nhà cung cấp AI hiện tại",
+    "changeProvider": "Thay đổi nhà cung cấp AI",
+    "developerNotice": "Hướng dẫn nhà phát triển",
+    "changeProviderInstruction": "Để thay đổi nhà cung cấp AI, hãy thay đổi giá trị AI_PROVIDER trong tệp .env.local và khởi động lại máy chủ.",
+    "openaiFeatures": {
+      "title": "OpenAI GPT",
+      "quality": "Chất lượng hội thoại xuất sắc",
+      "creative": "Phản hồi sáng tạo và linh hoạt",
+      "model": "Sử dụng mô hình gpt-4o-mini"
+    },
+    "geminiFeatures": {
+      "title": "Google Gemini",
+      "speed": "Tốc độ phản hồi nhanh",
+      "free": "Cung cấp dung lượng miễn phí",
+      "model": "Sử dụng mô hình gemini-2.5-flash"
+    },
+    "apiKeyStatus": "Trạng thái API Key",
+    "configured": "Đã thiết lập",
+    "aiFeatures": "Tính năng AI",
+    "activeFeatures": "Tính năng hiện đang hoạt động:",
+    "upcomingFeatures": "Dự kiến mở rộng trong tương lai:",
+    "features": {
+      "aiCoach": "Chat với HLV AI nuôi dạy trẻ",
+      "questGeneration": "Tạo nhiệm vụ hôm nay",
+      "reportAnalysis": "Phân tích báo cáo phát triển",
+      "insightGeneration": "Tạo thông tin chi tiết AI",
+      "photoAnalysis": "Phân tích ảnh/video",
+      "voiceRecognition": "Nhận dạng giọng nói (tiếng ú ờ)",
+      "growthPrediction": "Mô hình dự đoán phát triển",
+      "peerComparison": "Phân tích so sánh với bạn bè"
+    },
+    "profile": "Cài đặt hồ sơ",
+    "notifications": "Cài đặt thông báo",
+    "privacy": "Cài đặt quyền riêng tư",
+    "about": "Thông tin ứng dụng",
+    "version": "Phiên bản",
+    "support": "Hỗ trợ khách hàng",
+    "languageSettings": "Cài đặt ngôn ngữ",
+    "selectLanguage": "Chọn ngôn ngữ",
+    "korean": "한국어",
+    "vietnamese": "Tiếng Việt",
+    "languageChanged": "Ngôn ngữ đã được thay đổi"
+  },
+  "children": {
+    "title": "Hồ sơ trẻ",
+    "empty": "Chưa có trẻ nào được đăng ký",
+    "addFirst": "Đăng ký trẻ đầu tiên",
+    "addChild": "Thêm trẻ",
+    "childName": "Tên trẻ",
+    "birthDate": "Ngày sinh",
+    "gender": "Giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "other": "Khác",
+    "age": "Tuổi",
+    "months": "tháng",
+    "days": "ngày",
+    "years": "tuổi",
+    "editChild": "Chỉnh sửa thông tin",
+    "deleteChild": "Xóa",
+    "confirmDelete": "Bạn có chắc chắn muốn xóa?",
+    "deleteConfirm": "Bạn có chắc chắn muốn xóa thông tin của trẻ này?",
+    "noChildren": "Chưa có trẻ nào được đăng ký",
+    "addFirstChild": "Hãy thêm trẻ đầu tiên của bạn!"
+  },
+  "growthGuide": {
+    "title": "Hướng dẫn phát triển theo tuổi",
+    "generating": "AI đang tạo hướng dẫn cá nhân hóa...",
+    "error": "Đã xảy ra lỗi khi tạo hướng dẫn",
+    "retry": "Thử lại",
+    "personalizedGuide": "của",
+    "description": "Hướng dẫn phát triển cá nhân hóa được phân tích bởi AI",
+    "physical": "Phát triển thể chất",
+    "cognitive": "Phát triển nhận thức",
+    "social": "Phát triển xã hội",
+    "language": "Phát triển ngôn ngữ",
+    "emotional": "Phát triển cảm xúc",
+    "nutrition": "Dinh dưỡng",
+    "sleep": "Giấc ngủ",
+    "safety": "An toàn",
+    "pageTitle": "📖 Hướng dẫn phát triển theo tuổi",
+    "childListError": "Lỗi khi tải danh sách trẻ:",
+    "guideApiError": "Lỗi API hướng dẫn:",
+    "guideLoadError": "Không thể tải hướng dẫn",
+    "networkError": "Đã xảy ra lỗi mạng",
+    "growthGuideError": "Lỗi khi tải hướng dẫn phát triển:",
+    "monthGuide": "hướng dẫn tháng",
+    "aiAnalyzedGuide": "Hướng dẫn phát triển cá nhân hóa được phân tích bởi AI",
+    "developmentFocusTitle": "🎯 Lĩnh vực phát triển trọng tâm tháng này",
+    "milestonesTitle": "🏆 Cột mốc phát triển",
+    "activitiesTitle": "🎨 Hoạt động được khuyến nghị",
+    "nutritionTitle": "🍼 Hướng dẫn dinh dưỡng",
+    "sleepTitle": "😴 Hướng dẫn giấc ngủ",
+    "nextMonthTitle": "🔮 Xem trước tháng tới",
+    "durationLabel": "Thời gian: ",
+    "effectLabel": "Hiệu quả: ",
+    "recommendationsLabel": "Khuyến nghị",
+    "portionsLabel": "Khẩu phần ăn",
+    "scheduleLabel": "Lịch ăn",
+    "sleepDurationLabel": "Thời gian ngủ khuyến nghị",
+    "sleepScheduleLabel": "Lịch ngủ",
+    "sleepTipsLabel": "Mẹo ngủ",
+    "selectChildMessage": "Chọn trẻ để nhận hướng dẫn phát triển cá nhân hóa.",
+    "addChildFirst": "Hãy thêm hồ sơ trẻ trước.",
+    "categories": {
+      "physical": "Phát triển thể chất",
+      "cognitive": "Phát triển nhận thức",
+      "social": "Phát triển xã hội",
+      "language": "Phát triển ngôn ngữ",
+      "other": "Khác"
+    }
+  },
+  "quests": {
+    "title": "Lịch sử nhiệm vụ",
+    "empty": "Đang tạo nhiệm vụ hôm nay",
+    "loading": "Đang tải lịch sử...",
+    "showTip": "Xem gợi ý",
+    "parentNote": "Ghi chú của phụ huynh:",
+    "noQuests": "Chưa có nhiệm vụ nào hoàn thành",
+    "getFirstQuest": "Nhận nhiệm vụ đầu tiên",
+    "startToday": "Bắt đầu từ hôm nay!",
+    "filterAll": "Tất cả",
+    "filterMom": "Mẹ",
+    "filterDad": "Bố",
+    "filterBoth": "Bố mẹ",
+    "filterFamily": "Gia đình",
+    "pageTitle": "🎯 Lịch sử nhiệm vụ",
+    "childListError": "Lỗi khi tải danh sách trẻ:",
+    "questHistoryError": "Lỗi khi tải lịch sử nhiệm vụ:",
+    "loadingHistory": "Đang tải lịch sử...",
+    "statusCompleted": "Hoàn thành",
+    "statusSkipped": "Bỏ qua",
+    "statusInProgress": "Đang thực hiện",
+    "statusPending": "Đang chờ",
+    "tipShow": "💡 Xem gợi ý",
+    "parentNoteLabel": "Ghi chú của phụ huynh:",
+    "noQuestHistory": "Chưa có lịch sử nhiệm vụ nào.",
+    "noSelectedFamilyQuests": "Không có nhiệm vụ của thành viên gia đình đã chọn.",
+    "getFirstQuestBtn": "Nhận nhiệm vụ đầu tiên",
+    "families": {
+      "all": "👨‍👩‍👧‍👦 Toàn bộ gia đình",
+      "mom": "👩 Mẹ",
+      "dad": "👨 Bố",
+      "grandpa": "👴 Ông",
+      "grandma": "👵 Bà",
+      "parents": "👨‍👩 Bố mẹ",
+      "grandparents": "👴👵 Ông bà"
+    },
+    "familyLabels": {
+      "mom": "Mẹ",
+      "dad": "Bố",
+      "grandpa": "Ông",
+      "grandma": "Bà",
+      "both": "Bố mẹ",
+      "parents": "Bố mẹ",
+      "grandparents": "Ông bà",
+      "family": "Gia đình"
+    }
+  },
+  "reports": {
+    "title": "Báo cáo phát triển",
+    "generateInsights": "Tạo thông tin chi tiết AI",
+    "generating": "Đang tạo báo cáo...",
+    "period": "Thời gian",
+    "week": "1 tuần",
+    "month": "1 tháng",
+    "quarter": "3 tháng",
+    "insightError": "Đã xảy ra lỗi khi tạo thông tin chi tiết AI"
+  },
+  "aiCoach": {
+    "title": "Huấn luyện viên AI nuôi dạy trẻ",
+    "chatHistory": "Lịch sử trò chuyện",
+    "startNewChat": "Bắt đầu cuộc trò chuyện mới",
+    "generalConsult": "Tư vấn chung",
+    "childConsult": "tư vấn",
+    "description": "Trò chuyện với chuyên gia AI về sự phát triển và trưởng thành của con bạn",
+    "errorMessage": "Đã xảy ra lỗi khi tạo phản hồi AI",
+    "fallbackMessage": "Xin lỗi. Đã xảy ra lỗi tạm thời. Vui lòng thử lại.",
+    "initialGreeting": "Xin chào! Tôi là huấn luyện viên AI nuôi dạy trẻ của Growing. Nếu bạn có bất kỳ câu hỏi nào về sự phát triển của con, hãy hỏi tôi bất cứ lúc nào. Bạn cần giúp đỡ gì không?",
+    "send": "Gửi",
+    "inputPlaceholder": "Hãy tự do hỏi những điều bạn thắc mắc...",
+    "suggestedQuestions": "💡 Câu hỏi gợi ý:",
+    "question1": "Tôi lo lắng về giấc ngủ của con",
+    "question2": "Khi nào nên bắt đầu cho bé ăn dặm?",
+    "question3": "Bé thường bước đi đầu tiên khi nào?",
+    "question4": "Con tôi nói chậm, tôi rất lo lắng",
+    "deeperConsultTitle": "Bạn cần tư vấn sâu hơn?",
+    "deeperConsultDesc": "Hãy thực hiện buổi tư vấn 1:1 với chuyên gia đã được xác minh",
+    "viewCounselors": "Xem chuyên gia tư vấn",
+    "aiConsultNotice": "⚠️ Thông báo tư vấn AI",
+    "aiConsultWarning": "Huấn luyện viên AI cung cấp thông tin nuôi dạy trẻ chung. Khi có vấn đề sức khỏe nghiêm trọng hoặc tình huống khẩn cấp, vui lòng tham khảo ý kiến bác sĩ chuyên khoa.",
+    "usageLimitTitle": "Vượt giới hạn sử dụng AI",
+    "usageLimitMessage": "Bạn đã sử dụng hết lượt AI trong tháng này.",
+    "currentPlan": "Gói hiện tại",
+    "usage": "Sử dụng",
+    "resetDate": "Ngày làm mới",
+    "premiumPlan": "Gói Premium",
+    "premiumPrice": "₩4.900/tháng",
+    "premiumFeature1": "• 500 lượt sử dụng AI mỗi tháng",
+    "premiumFeature2": "• Kết nối với chuyên gia tư vấn",
+    "premiumFeature3": "• Báo cáo phát triển cá nhân hóa",
+    "upgradeButton": "Nâng cấp ngay",
+    "closeModal": "Đóng",
+    "noTitle": "Không có tiêu đề",
+    "noHistory": "Không có lịch sử trò chuyện",
+    "usageError": "Lỗi khi tải thông tin sử dụng:",
+    "childListError": "Lỗi khi tải danh sách trẻ:",
+    "conversationListError": "Lỗi khi tải danh sách hội thoại:",
+    "conversationLoadError": "Lỗi khi tải cuộc trò chuyện:",
+    "aiChatError": "Lỗi trò chuyện AI:",
+    "usageLimitError": "Giới hạn sử dụng",
+    "hardcodedGreeting": "Xin chào! Tôi là chuyên gia nuôi dạy trẻ AI của Growing. Nếu bạn có bất kỳ thắc mắc nào về sự phát triển của con, hãy hỏi tôi bất cứ lúc nào. Bạn cần hỗ trợ gì?"
+  },
+  "voiceRecorder": {
+    "title": "Ghi âm giọng nói",
+    "notSupported": "Trình duyệt này không hỗ trợ nhận diện giọng nói.",
+    "listening": "Đang nghe... Vui lòng nói",
+    "clickToStart": "Nhấn nút micro và nói",
+    "recognized": "Nội dung nhận diện:",
+    "examples": {
+      "sleep": "Bé ngủ từ 9 giờ tối đến 7 giờ sáng",
+      "meal": "Bé uống sữa mẹ 200ml",
+      "activity": "Vui chơi trong 30 phút",
+      "diaper": "Thay tã cho bé"
+    }
+  },
+  "smartInput": {
+    "sleepDuration": "Thời gian ngủ (giờ)",
+    "sleepQuality": "Chất lượng giấc ngủ",
+    "mealType": "Loại bữa ăn",
+    "amount": "Lượng (ml/g)",
+    "time": "Thời gian",
+    "memo": "Ghi chú",
+    "memoPlaceholder": "Ghi chú thêm...",
+    "saving": "Đang lưu...",
+    "recommended": "Khuyến nghị",
+    "qualityGood": "Tốt",
+    "qualityNormal": "Bình thường",
+    "qualityPoor": "Không đủ",
+    "breastfeeding": "Cho bú mẹ",
+    "bottleFeeding": "Cho bú bình",
+    "solidFood": "Ăn dặm",
+    "snack": "Ăn vặt",
+    "now": "Bây giờ",
+    "oneHourAgo": "1 giờ trước",
+    "twoHoursAgo": "2 giờ trước"
+  },
+  "aiAnalysis": {
+    "title": "Kết quả phân tích AI",
+    "insights": "Thông tin chi tiết",
+    "recommendations": "Gợi ý",
+    "warnings": "Lưu ý",
+    "nextRecords": "Gợi ý ghi chép tiếp theo"
+  },
+  "signup": {
+    "title": "Bắt đầu với Growing",
+    "subtitle": "Theo dõi và quản lý sự phát triển của con bạn cùng với AI",
+    "passwordMinLength": "Mật khẩu (tối thiểu 6 ký tự)",
+    "passwordError": "Mật khẩu phải có ít nhất 6 ký tự.",
+    "signingUp": "Đang đăng ký...",
+    "signupFailed": "Đăng ký thất bại"
+  },
+  "loginPage": {
+    "subtitle": "Nuôi dạy thông minh cùng AI"
+  },
+  "layout": {
+    "adminHome": "Trang chủ quản trị",
+    "adminTools": "Công cụ quản trị",
+    "users": "Quản lý người dùng",
+    "records": "Quản lý hồ sơ",
+    "counselors": "Quản lý tư vấn viên",
+    "systemSettings": "Cài đặt hệ thống",
+    "reports": "Báo cáo quản lý",
+    "recordManagement": "Quản lý hồ sơ",
+    "growthLogs": "Nhật ký phát triển",
+    "questHistory": "Lịch sử nhiệm vụ",
+    "growthReports": "Báo cáo phát triển",
+    "adminModeOn": "Chế độ quản trị BẬT",
+    "adminModeOff": "Chế độ quản trị TẮT",
+    "userWelcome": "",
+    "upgradeRequests": "Yêu cầu nâng cấp",
+    "aiUsage": "Sử dụng AI",
+    "counselorRegister": "Đăng ký tư vấn viên",
+    "counselorDashboard": "Bảng điều khiển tư vấn viên",
+    "copyright": "© 2025 Growing. Tất cả quyền được bảo lưu.",
+    "services": {
+      "about": "Giới thiệu dịch vụ",
+      "privacy": "Chính sách bảo mật",
+      "terms": "Điều khoản sử dụng",
+      "support": "Hỗ trợ khách hàng"
+    }
+  },
+  "quickActions": {
+    "title": "Hành động nhanh",
+    "addLog": "Ghi nhật ký phát triển",
+    "aiCoach": "Huấn luyện viên AI",
+    "growthGuide": "Hướng dẫn phát triển",
+    "manageChildren": "Quản lý trẻ em",
+    "addRecord": "Thêm bản ghi",
+    "aiConsult": "Tư vấn AI",
+    "expertConsult": "Tư vấn chuyên gia",
+    "expertQuestion": "Bạn có phải là chuyên gia nuôi dạy trẻ?",
+    "expertDescription": "Hoạt động như tư vấn viên chuyên nghiệp tại Growing và tạo ra doanh thu",
+    "registerExpert": "Đăng ký tư vấn viên"
+  },
+  "quickRecord": {
+    "title": "Ghi chép nhanh",
+    "tapToRecord": "Chạm để ghi chép ngay",
+    "justNow": "Vừa xông",
+    "minutesAgo": "phút trước",
+    "recentActivity": "Hoạt động gần đây",
+    "noRecentLogs": "Không có bản ghi gần đây",
+    "quickLogPrefix": "Ghi nhanh",
+    "addRecordFailed": "Thêm bản ghi thất bại",
+    "addRecordError": "Đã xảy ra lỗi khi thêm bản ghi"
+  },
+  "recordSummary": {
+    "title": "Tóm tắt bản ghi hôm nay",
+    "recommendedRecord": "Bản ghi được khuyến nghị",
+    "missedRecordsNote": "Chọn trẻ và thêm bản ghi để AI cung cấp gợi ý cá nhân hóa."
+  },
+  "viewModes": {
+    "cardView": "Chế độ thẻ",
+    "timeline": "Dòng thời gian",
+    "voice": "Giọng nói"
+  },
+  "ageGroups": {
+    "newborn": {
+      "name": "Trẻ sơ sinh/Trẻ nhỏ",
+      "description": "0~12 tháng: Tập trung vào hoạt động sinh lý cơ bản"
+    },
+    "toddler": {
+      "name": "Giai đoạn biết đi",
+      "description": "12~36 tháng: Phát triển vận động và học ngôn ngữ"
+    },
+    "preschool": {
+      "name": "Tuổi mẫu giáo",
+      "description": "3~6 tuổi: Học tập và hoạt động sáng tạo"
+    },
+    "schoolAge": {
+      "name": "Tuổi học đường",
+      "description": "6~12 tuổi: Học tập và phát triển xã hội"
+    },
+    "recordTypes": {
+      "feeding": {
+        "label": "Cho ăn",
+        "description": "Sữa mẹ, sữa bình, ăn dặm",
+        "quickActions": {
+          "breastMilk": "Sữa mẹ",
+          "formula": "Sữa bình",
+          "babyFood": "Ăn dặm"
+        }
+      },
+      "sleep": {
+        "label": "Giấc ngủ",
+        "description": "Ngủ trưa, ngủ đêm, mẫu ngủ",
+        "quickActions": {
+          "nap": "Ngủ trưa",
+          "nightSleep": "Ngủ đêm",
+          "wakeUp": "Thức dậy"
+        }
+      },
+      "diaper": {
+        "label": "Thay tã",
+        "description": "Ghi chép thay tã",
+        "quickActions": {
+          "wet": "Tã ướt",
+          "dirty": "Tã bẩn",
+          "both": "Cả hai"
+        }
+      },
+      "development": {
+        "label": "Phát triển",
+        "description": "Cốt mốc phát triển thể chất và nhận thức",
+        "quickActions": {
+          "milestone": "Cốt mốc",
+          "newSkill": "Kỹ năng mới",
+          "progress": "Tiến bộ"
+        }
+      },
+      "meal": {
+        "label": "Bữa ăn",
+        "description": "Sáng, trưa, tối, ăn vặt",
+        "quickActions": {
+          "breakfast": "Sáng",
+          "lunch": "Trưa",
+          "dinner": "Tối",
+          "snack": "Ăn vặt"
+        }
+      },
+      "play": {
+        "label": "Chơi",
+        "description": "Hoạt động vui chơi thể chất và nhận thức",
+        "quickActions": {
+          "indoor": "Chơi trong nhà",
+          "outdoor": "Chơi ngoài trời",
+          "creative": "Chơi sáng tạo"
+        }
+      },
+      "learning": {
+        "label": "Học tập",
+        "description": "Hoạt động học tập",
+        "quickActions": {
+          "reading": "Đọc sách",
+          "writing": "Viết",
+          "math": "Toán"
+        }
+      },
+      "creative": {
+        "label": "Sáng tạo",
+        "description": "Hoạt động nghệ thuật, âm nhạc, vẽ",
+        "quickActions": {
+          "drawing": "Vẽ tranh",
+          "music": "Âm nhạc",
+          "crafts": "Làm thủ công"
+        }
+      },
+      "physical": {
+        "label": "Thể chất",
+        "description": "Thể thao và phát triển cơ thể",
+        "quickActions": {
+          "exercise": "Tập thể dục",
+          "sports": "Thể thao",
+          "walk": "Đi bộ"
+        }
+      },
+      "emotion": {
+        "label": "Cảm xúc",
+        "description": "Biểu hiện cảm xúc",
+        "quickActions": {
+          "happy": "Vui vẻ",
+          "sad": "Buồn",
+          "angry": "Tức giận"
+        }
+      },
+      "quickRecord": "Chạm để ghi nhanh"
+    }
+  },
+  "reports": {
+    "title": "Báo cáo phát triển",
+    "generateInsights": "Tạo thông tin chi tiết AI",
+    "generating": "Đang tạo báo cáo...",
+    "period": "Thời gian",
+    "periodLabels": {
+      "daily": "Hàng ngày",
+      "weekly": "Hàng tuần",
+      "monthly": "Hàng tháng"
+    },
+    "childError": "Lỗi khi tải danh sách trẻ:",
+    "reportError": "Lỗi khi tải báo cáo:",
+    "insightError": "Đã xảy ra lỗi khi tạo thông tin chi tiết AI",
+    "selectChild": "Chọn trẻ",
+    "startDate": "Ngày bắt đầu",
+    "endDate": "Ngày kết thúc",
+    "generateReport": "Tạo báo cáo",
+    "noReports": "Không có báo cáo",
+    "statsLabels": {
+      "totalRecords": "Tổng số bản ghi",
+      "avgSleep": "Thời gian ngủ trung bình",
+      "avgMeals": "Trung bình bữa ăn/ngày",
+      "totalActivities": "Tổng thời gian hoạt động",
+      "milestones": "Cột mốc đạt được",
+      "healthRecords": "Bản ghi sức khỏe"
+    },
+    "patternAnalysis": {
+      "sleepPatterns": "Mẫu giấc ngủ",
+      "mealPatterns": "Mẫu bữa ăn",
+      "activityPatterns": "Mẫu hoạt động"
+    },
+    "downloadReport": "Tải báo cáo",
+    "shareReport": "Chia sẻ báo cáo"
+  },
+  "statusBadges": {
+    "completed": "Hoàn thành",
+    "skipped": "Bỏ qua",
+    "inProgress": "Đang thực hiện",
+    "pending": "Đang chờ"
+  },
+  "voiceRecording": {
+    "title": "Ghi âm giọng nói",
+    "ageGroups": {
+      "12months": {
+        "feeding": {
+          "title": "Ghi chép cho bú",
+          "examples": [
+            "Bé uống 120ml",
+            "Uống sữa bình 150ml",
+            "Bú mẹ"
+          ]
+        },
+        "sleep": {
+          "title": "Ghi chép giấc ngủ",
+          "examples": [
+            "Ngủ 2 tiếng",
+            "Ngủ trưa 1 tiếng 30 phút",
+            "Ngủ đêm 8 tiếng"
+          ]
+        },
+        "diaper": {
+          "title": "Ghi chép tã",
+          "examples": [
+            "Thay tã",
+            "Tã phân",
+            "Tã tiểu"
+          ]
+        },
+        "development": {
+          "title": "Ghi chép phát triển",
+          "examples": [
+            "Cười lần đầu",
+            "Lật ngược",
+            "Bắt đầu ngồi"
+          ]
+        }
+      },
+      "24months": {
+        "meal": {
+          "title": "Ghi chép bữa ăn",
+          "examples": [
+            "Bé ăn sáng",
+            "Bé ăn hết bữa trưa",
+            "Bé ăn vặt"
+          ]
+        },
+        "play": {
+          "title": "Ghi chép chơi",
+          "examples": [
+            "Chơi xếp khối",
+            "Vẽ tranh",
+            "Chơi bóng"
+          ]
+        },
+        "speech": {
+          "title": "Ghi chép ngôn ngữ",
+          "examples": [
+            "Nói từ mới",
+            "Nói câu",
+            "Trò chuyện"
+          ]
+        },
+        "social": {
+          "title": "Ghi chép xã hội",
+          "examples": [
+            "Chơi với bạn",
+            "Chia sẻ",
+            "Giữ trật tự"
+          ]
+        }
+      },
+      "36months": {
+        "learning": {
+          "title": "Ghi chép học tập",
+          "examples": [
+            "Học chữ",
+            "Học đếm số",
+            "Học từ tiếng Anh"
+          ]
+        },
+        "creative": {
+          "title": "Ghi chép sáng tạo",
+          "examples": [
+            "Vẽ tranh",
+            "Làm thủ công",
+            "Hát"
+          ]
+        },
+        "physical": {
+          "title": "Ghi chép hoạt động thể chất",
+          "examples": [
+            "Chạy xe đạp",
+            "Chơi ở công viên",
+            "Bơi"
+          ]
+        },
+        "emotion": {
+          "title": "Ghi chép cảm xúc",
+          "examples": [
+            "Vui",
+            "Buồn",
+            "Sợ"
+          ]
+        },
+        "school": {
+          "title": "Ghi chép hoạt động trường học",
+          "examples": [
+            "Làm xong bài tập",
+            "Thi",
+            "Tham gia sự kiện trường"
+          ]
+        },
+        "hobby": {
+          "title": "Ghi chép sở thích",
+          "examples": [
+            "Tập piano",
+            "Học taekwondo",
+            "Đọc sách"
+          ]
+        },
+        "friendship": {
+          "title": "Ghi chép quan hệ bạn bè",
+          "examples": [
+            "Kết bạn mới",
+            "Chơi với bạn",
+            "Giải quyết xung đột"
+          ]
+        },
+        "others": {
+          "title": "Hoạt động khác",
+          "examples": [
+            "Hoạt động câu lạc bộ",
+            "Tình nguyện",
+            "Tư vấn hướng nghiệp"
+          ]
+        }
+      }
+    },
+    "listening": "Đang nghe... Vui lòng nói",
+    "recognized": "Nội dung nhận diện:",
+    "examples": "Ví dụ:",
+    "supportError": "Trình duyệt này không hỗ trợ nhận diện giọng nói.",
+    "networkError": "Đã xảy ra lỗi khi nhận diện giọng nói."
+  },
+  "homepage": {
+    "hero": {
+      "title": "Ghi chép sự phát triển của con",
+      "subtitle": "cùng với AI",
+      "description": "Growing không chỉ là ghi chép đơn giản, mà còn cung cấp giải pháp tùy chỉnh thông qua phân tích AI để chẩn đoán giai đoạn phát triển của trẻ.",
+      "startFree": "Bắt đầu miễn phí",
+      "login": "Đăng nhập",
+      "goToDashboard": "Đi đến bảng điều khiển"
+    },
+    "features": {
+      "quickRecord": {
+        "title": "Ghi chép dễ dàng và nhanh chóng",
+        "description": "Ghi lại các hoạt động hàng ngày của trẻ như giấc ngủ, bữa ăn, hoạt động và lưu giữ kỷ niệm cùng với ảnh."
+      },
+      "aiInsights": {
+        "title": "Thông tin chi tiết AI",
+        "description": "AI phân tích mô hình phát triển của trẻ dựa trên dữ liệu tích lũy và cung cấp lời khuyên tùy chỉnh."
+      },
+      "growthReport": {
+        "title": "Báo cáo phát triển",
+        "description": "Xem tổng quan quá trình phát triển của trẻ với báo cáo hàng tuần, hàng tháng và so sánh với các bạn cùng trang lứa."
+      }
+    },
+    "counselor": {
+      "title": "Hoạt động như tư vấn viên chuyên nghiệp",
+      "description": "Giúp đỡ các bậc phụ huynh với tư cách là chuyên gia nuôi dạy trẻ và tạo ra thu nhập. Bạn có thể cung cấp dịch vụ tư vấn an toàn trên nền tảng đã được xác minh.",
+      "register": "Đăng ký tư vấn viên",
+      "browse": "Xem danh sách tư vấn viên"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Bảng điều khiển quản trị",
+      "subtitle": "Tình trạng hệ thống và công cụ quản lý",
+      "loading": "Đang tải...",
+      "statsError": "Lỗi truy vấn thống kê quản trị:"
+    },
+    "stats": {
+      "totalUsers": "Tổng số người dùng",
+      "activeCounselors": "Tư vấn viên hoạt động",
+      "pendingApproval": "Chờ phê duyệt",
+      "monthlyAIUsage": "Sử dụng AI hàng tháng"
+    },
+    "menu": {
+      "counselorManagement": {
+        "title": "Quản lý tư vấn viên",
+        "description": "Phê duyệt, xác minh, quản lý tư vấn viên",
+        "pendingCount": "đang chờ"
+      },
+      "userManagement": {
+        "title": "Quản lý người dùng",
+        "description": "Quản lý tài khoản và quyền người dùng"
+      },
+      "aiUsageManagement": {
+        "title": "Quản lý sử dụng AI",
+        "description": "Thống kê và quản lý giới hạn sử dụng AI"
+      },
+      "systemSettings": {
+        "title": "Cài đặt hệ thống",
+        "description": "Cài đặt và quản lý môi trường hệ thống"
+      },
+      "reports": {
+        "title": "Báo cáo",
+        "description": "Báo cáo và phân tích sử dụng"
+      },
+      "upgradeRequests": {
+        "title": "Yêu cầu nâng cấp",
+        "description": "Quản lý yêu cầu nâng cấp của người dùng"
+      },
+      "auditLog": {
+        "title": "Nhật ký kiểm toán",
+        "description": "Xem nhật ký hoạt động hệ thống"
+      }
+    },
+    "recentActivity": {
+      "title": "Hoạt động gần đây",
+      "pendingCounselors": "Tư vấn viên chờ phê duyệt",
+      "todayAIUsage": "Sử dụng AI hôm nay",
+      "totalChildren": "Tổng số trẻ đã đăng ký",
+      "totalLogs": "Tổng số bản ghi phát triển",
+      "unit": {
+        "cases": "trường hợp",
+        "times": "lần",
+        "children": "trẻ",
+        "records": "bản ghi"
+      }
+    }
+  },
+  "subscription": {
+    "title": "Quản lý đăng ký và sử dụng",
+    "subtitle": "Quản lý việc sử dụng tính năng AI và gói đăng ký",
+    "currentUsage": "Sử dụng tháng này",
+    "usedCount": "Số lần đã sử dụng",
+    "remainingCount": "Số lần còn lại",
+    "currentPlan": "Gói hiện tại",
+    "usage": "Sử dụng",
+    "nextReset": "Làm mới tiếp theo:",
+    "monthlyStats": "Thống kê tháng này",
+    "totalRequests": "Tổng số yêu cầu",
+    "estimatedCost": "Chi phí ước tính",
+    "usedTokens": "Token đã sử dụng",
+    "planSelection": "Lựa chọn gói",
+    "free": {
+      "title": "Free",
+      "subtitle": "Miễn phí",
+      "duration": "Mãi mãi",
+      "feature1": "50 lần sử dụng AI mỗi tháng",
+      "feature2": "Ghi chép phát triển cơ bản",
+      "feature3": "Trò chuyện với HLV AI",
+      "currentPlan": "Gói hiện tại"
+    },
+    "premium": {
+      "title": "Premium",
+      "price": "₩4,900",
+      "duration": "tháng",
+      "feature1": "500 lần sử dụng AI mỗi tháng",
+      "feature2": "Tất cả tính năng phân tích phát triển",
+      "feature3": "Dịch vụ ghép đôi tư vấn viên chuyên nghiệp",
+      "feature4": "Báo cáo phát triển cá nhân hóa",
+      "feature5": "Hỗ trợ khách hàng ưu tiên",
+      "upgradeButton": "Yêu cầu nâng cấp"
+    },
+    "upgradeRequest": {
+      "title": "Yêu cầu nâng cấp",
+      "description": "Nếu bạn muốn gói Premium, vui lòng nhập thông tin liên hệ. Nhân viên sẽ liên hệ và hướng dẫn bạn.",
+      "emailLabel": "Địa chỉ email liên hệ",
+      "submitButton": "Gửi yêu cầu",
+      "notice": "Việc nâng cấp gói Premium sẽ được thực hiện thông qua liên hệ trực tiếp.",
+      "successMessage": "Yêu cầu nâng cấp đã hoàn tất. Nhân viên sẽ liên hệ với bạn sớm."
+    },
+    "loading": "Đang tải..."
+  },
+  "counselors": {
+    "title": "Chuyên gia tư vấn",
+    "subtitle": "Thực hiện tư vấn 1:1 với các chuyên gia nuôi dạy trẻ đã được xác minh",
+    "becomeCounselor": "Trở thành chuyên gia tư vấn",
+    "becomeDescription": "Chia sẻ kiến thức chuyên môn và tạo thu nhập",
+    "register": "Đăng ký làm tư vấn viên",
+    "filterBy": "Lĩnh vực chuyên môn",
+    "sortBy": "Tiêu chí sắp xếp",
+    "sortRating": "Xếp theo điểm đánh giá cao",
+    "sortPrice": "Xếp theo giá thấp",
+    "sortExperience": "Xếp theo kinh nghiệm nhiều",
+    "noResults": "Không tìm thấy chuyên gia tư vấn phù hợp với điều kiện tìm kiếm",
+    "tryDifferentFilter": "Hãy thử bộ lọc khác",
+    "experienceYears": "năm kinh nghiệm",
+    "hourlyRate": "Mỗi giờ",
+    "viewProfile": "Xem hồ sơ",
+    "bookConsultation": "Đặt lịch tư vấn",
+    "languagesSpoken": "Ngôn ngữ có thể sử dụng",
+    "specialties": {
+      "all": "Tất cả",
+      "newborn": "Trẻ sơ sinh",
+      "infant": "Trẻ nhỏ",
+      "toddler": "Trẻ mẫu giáo",
+      "preschool": "Tuổi mầm non",
+      "schoolAge": "Tuổi học đường",
+      "adolescent": "Thanh thiếu niên",
+      "development": "Phát triển",
+      "nutrition": "Dinh dưỡng",
+      "sleep": "Giấc ngủ",
+      "behavior": "Hành vi",
+      "specialNeeds": "Trẻ có nhu cầu đặc biệt"
+    },
+    "fetchError": "Lỗi truy vấn danh sách chuyên gia tư vấn:",
+    "loadingMessage": "Đang tải danh sách chuyên gia tư vấn...",
+    "prevPage": "Trang trước",
+    "nextPage": "Trang tiếp theo"
+  }
+}

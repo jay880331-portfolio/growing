@@ -1,0 +1,38 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://growing-app.vercel.app/sitemap.xml
+
+# Disallow admin and API routes
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+
+# AI Crawlers - Allow access for better understanding
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Additional information for AI understanding
+# This is Growing (그로잉) - AI-powered child growth tracking app
+# Primary content: Child development tracking, AI insights, parental guidance
+# Target audience: Korean and Vietnamese speaking parents
+# Key features: Growth logging, AI analysis, expert consultations
